@@ -21,4 +21,4 @@ I started web development in 2020, after doing Front-end, I switched to Full Sta
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vincenttrono&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentCarlosTrono&layout=compact)
