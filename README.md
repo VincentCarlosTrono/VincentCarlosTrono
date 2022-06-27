@@ -11,7 +11,7 @@
 
 I'm a software engineer based in Manila, Philippines specializing in building exceptional websites, applications, and everything in between.
 
-I started web development in 2018, after doing Front-end, I switched to Full Stack development, where I work with a variety of meaningful projects.
+I started web development in 2020, after doing Front-end, I switched to Full Stack development, where I work with a variety of meaningful projects.
 
 
 
@@ -21,4 +21,4 @@ I started web development in 2018, after doing Front-end, I switched to Full Sta
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edtosoy&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vincenttrono&layout=compact)
