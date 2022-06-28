@@ -1,5 +1,5 @@
 
-![Reactjs and Graphql Enthusiast](https://resume-gvi2rdh3r-vincentcarlostrono.vercel.app/)
+![Reactjs and Graphql Enthusiast](https:VincentVarlosTrono/VincentCarlosTrono/Raw/vicnent-resume-bg)
 
 
 ###  React, TypeScript, JavaScript
