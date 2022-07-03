@@ -1,5 +1,5 @@
 
-![Reactjs and Graphql Enthusiast](https://tomcam.github.io/vicnent-design.png/)
+![Reactjs and Graphql Enthusiast](https://github.com/VincentCarlosTrono/ResumeBg/blob/main/vicnent-design.png?raw=true)
 
 
 ###  React, TypeScript, JavaScript
