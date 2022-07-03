@@ -1,5 +1,5 @@
 
-![Reactjs and Graphql Enthusiast](https://media-exp2.licdn.com/dms/image/C5616AQHu_HP1Hf8YvQ/profile-displaybackgroundimage-shrink_350_1400/0/1625820540322?e=1662595200&v=beta&t=_vUhk1XN773-DNW5RDfFF5nEyz4DbOuDidBxEM0cye8)
+![Reactjs and Graphql Enthusiast](https://github.com/VincentCarlosTrono/ResumeBg/blob/main/2525201.jpg?raw=true)
 
 ###  React, TypeScript, JavaScript
 
